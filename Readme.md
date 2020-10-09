@@ -11,6 +11,6 @@
 - [ ] Testes de Usabilidade do Produto (Escala SUS)
 - [ ] Interface de Usuário bem resolvida (Design Visual)
 
-__
+___
 
 Grupo: Eduardo Ortiz, Mayckon Padilha, Renata Zanatta e Thiago Sartorel
