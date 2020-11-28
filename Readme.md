@@ -2,7 +2,7 @@
 
 - [ ] Mapa de Stakeholders
 - [ ] Questionário/Entrevistas com Stakeholders
-- [ ] Questionário/Entrevistas com Usuários - Relatório
+- [ ] Questionário/Entrevistas com Usuários
 - [x] Desenho das Personas (Usuários)
 - [ ] Fluxo de Uso / Jornada do Usuário
 - [ ] Mapa de Empatia
