@@ -1,8 +1,8 @@
 # User Experience
 
 - [ ] Mapa de Stakeholders
-- [x] Questionário/Entrevistas com Stakeholders
-- [X] Questionário/Entrevistas com Usuários
+- [ ] Questionário/Entrevistas com Stakeholders
+- [ ] Questionário/Entrevistas com Usuários
 - [x] Desenho das Personas (Usuários)
 - [ ] Fluxo de Uso / Jornada do Usuário
 - [ ] Mapa de Empatia
